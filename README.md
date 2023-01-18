@@ -16,9 +16,9 @@
 I am a Front-End Developer/Technical Lead <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Technical Lead and contributing to frontend for building web applications.
-- 🌱 Exploring Vue.js.
+- 🌱 Exploring ML/AI.
 - ⚡ In my free time I solve problems on Codegrepper and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sherin_Shaju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sherin-shaju-11a140159/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sherin_Shaju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudheeshshivan/)
 
 ---
 
